@@ -21,4 +21,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopetrolini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-Feito com o 💜 por Bruno Petrolini
+
+Feito com o 💜 por [Bruno Petrolini](https://www.facebook.com/bruno.petrolini18/)
