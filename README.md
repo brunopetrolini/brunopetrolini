@@ -22,4 +22,4 @@
 </div>
 
 
-Made with 💜 by [Bruno Petrolini](https://www.facebook.com/bruno.petrolini18/)
+Made with 💜 by <a href="https://www.facebook.com/bruno.petrolini18/" target="_blank">Bruno Petrolini</a>
