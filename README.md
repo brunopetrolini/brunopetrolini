@@ -21,6 +21,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopetrolini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<p></p>
+
 Some tools, libs and programming languages i like and used...
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
