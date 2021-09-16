@@ -2,9 +2,9 @@
 
 [![GitHub brunopetrolini](https://img.shields.io/github/followers/brunopetrolini?label=follow&style=social)](https://github.com/brunopetrolini)
 
-- 💻 I’m Software Engineer at [Quero Delivery](https://querodelivery.com/)
-- 🐧 I'm passionate about Linux
-- ☕ I'm a coffee addict
+- 💻 Software Engineer at [Quero Delivery](https://querodelivery.com/)
+- 🐧 Passionate about Linux
+- ☕ A coffee addict
 - 💬 Ask me about:
   - Typescript / Javascript / Node.JS / SQL / non-SQL / ORM / Docker
   - And what you want, feel free...
