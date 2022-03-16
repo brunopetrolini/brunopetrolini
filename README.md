@@ -3,7 +3,7 @@
 [![GitHub brunopetrolini](https://img.shields.io/github/followers/brunopetrolini?label=follow&style=social)](https://github.com/brunopetrolini)
 
 - 💻 Software Engineer at [Conta Simples](https://contasimples.com/)
-- 🐧 Passionate about Linux
+- 🚀 Passionate about technology
 - ☕ A coffee addict
 - 💬 Ask me about:
   - Typescript / Javascript / Node.JS / SQL / non-SQL / ORM / Docker
