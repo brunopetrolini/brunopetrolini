@@ -12,7 +12,7 @@
 📫 Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopetrolini/)](https://www.linkedin.com/in/brunopetrolini/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/petrolini.json/)](https://www.instagram.com/petrolini.json/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/petrolini.dev/)](https://www.instagram.com/petrolini.dev/)
 
 <p></p>
 
