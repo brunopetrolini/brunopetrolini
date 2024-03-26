@@ -2,7 +2,7 @@
 
 [![GitHub brunopetrolini](https://img.shields.io/github/followers/brunopetrolini?label=follow&style=social)](https://github.com/brunopetrolini)
 
-- 💻 Software Engineer at [Conta Simples](https://contasimples.com/)
+- 💻 Software Engineer
 - 🚀 Passionate about technology
 - ☕ A coffee addict
 - 💬 Ask me about:
