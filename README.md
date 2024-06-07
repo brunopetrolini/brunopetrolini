@@ -6,7 +6,7 @@
 - 🚀 Passionate about technology
 - ☕ A coffee addict
 - 💬 Ask me about:
-  - Typescript / Javascript / Node.JS / SQL / non-SQL / ORM / Docker
+  - Typescript / Javascript / Node.JS / Go / SQL / non-SQL / ORM / Docker
   - And what you want, feel free...
 
 <p></p>
