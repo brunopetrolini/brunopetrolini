@@ -2,7 +2,7 @@
 
 [![GitHub brunopetrolini](https://img.shields.io/github/followers/brunopetrolini?label=follow&style=social)](https://github.com/brunopetrolini)
 
-- 💻 Senior Software Engineer at [Conta Azul](https://ca.contaazul.com/)
+- 💻 Senior Software Engineer at [Mevo]([https://ca.contaazul.com/](https://mevo.com.br/))
 - 🚀 Passionate about technology
 - ☕ A coffee addict
 - 💬 Ask me about:
