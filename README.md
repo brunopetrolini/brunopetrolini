@@ -2,7 +2,7 @@
 
 [![GitHub brunopetrolini](https://img.shields.io/github/followers/brunopetrolini?label=follow&style=social)](https://github.com/brunopetrolini)
 
-- 💻 Tech Lead at [Mevo](https://mevo.com.br/)
+- 💻 Engineering Lead at [Mevo](https://mevo.com.br/)
 - 🚀 Passionate about technology
 - ☕ A coffee addict
 - 💬 Ask me about:
